@@ -8,6 +8,6 @@ public class ApartmentManagementApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ApartmentManagementApplication.class, args);
-        System.out.println("init");
+        System.out.println("");
     }
 }
